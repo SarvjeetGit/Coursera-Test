@@ -33,7 +33,7 @@ body{
 	padding: 15px
 }
 #logo-img{
-	background: url('/images/logo2.png') no-repeat;
+	background: url('images/logo2.png') no-repeat;
 
 	width: 150px;
 	height: 150px;
